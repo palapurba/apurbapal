@@ -2,8 +2,8 @@
 - 👀 I’m interested in experimentally synthesize bio-inorganic molecules and theorically predict the binding site inside nucleic acid or protein 
 - 🌱 I’m currently learning molecular docking
 - 💞️ I’m looking to collaborate on bioinformatics study
-- 📫 How to reach me ...Dept_Inorganic and Physical Chemistry_Indian Institute of Science_Bangalore_India
-- 😄 Pronouns: Apurba
+- 📫 How to reach me ...Dept_Inorganic and Physical Chemistry_Indian Institute of Science_Bangalore_India. apurbakumar.pal2014@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to play/watch football game
 
 <!---
